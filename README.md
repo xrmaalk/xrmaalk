@@ -1,4 +1,3 @@
-### Hi there 👋
 <a href="https://app.daily.dev/mkxinrare"><img src="https://api.daily.dev/devcards/74a5ef8a253d4d9db202c36a388ac570.png?r=eao" width="400" alt="MK Xinra Re's Dev Card"/></a>
 <!--
 **xrmaalk/xrmaalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
