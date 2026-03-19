@@ -1,4 +1,4 @@
-<a href="https://organicemperor.com/community-archives-and-discussions/"><img src="https://organicemperor.com/wp-content/uploads/2026/03/2026_Avatar_Head.webp" width="400" alt="OrganicArcives"/></a>
+<a href="https://organicemperor.com/community-archives-and-discussions/"><img src="https://organicemperor.com/wp-content/uploads/2026/03/2026_Avatar_MT.png" width="400" alt="OrganicArcives"/></a>
 <!--
 **xrmaalk/xrmaalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
